@@ -1,0 +1,109 @@
+{
+  "cards": [
+    {
+      "nameWithOwner": "jlord/hello",
+      "name": "hello",
+      "owner": {
+        "login": "jlord",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1305617?v=4",
+        "__typename": "User"
+      },
+      "forkCount": 411,
+      "watchers": {
+        "totalCount": 14,
+        "__typename": "UserConnection"
+      },
+      "stargazers": {
+        "totalCount": 88,
+        "__typename": "StargazerConnection"
+      },
+      "__typename": "Repository",
+      "createdAt": 1575627892850,
+      "id": 10
+    },
+    {
+      "nameWithOwner": "521xueweihan/HelloGitHub",
+      "name": "HelloGitHub",
+      "owner": {
+        "login": "521xueweihan",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/8255800?v=4",
+        "__typename": "User"
+      },
+      "forkCount": 2331,
+      "watchers": {
+        "totalCount": 1328,
+        "__typename": "UserConnection"
+      },
+      "stargazers": {
+        "totalCount": 19465,
+        "__typename": "StargazerConnection"
+      },
+      "__typename": "Repository",
+      "createdAt": 1575629200169,
+      "id": 11
+    },
+    {
+      "nameWithOwner": "Aniket965/Hello-world",
+      "name": "Hello-world",
+      "owner": {
+        "login": "Aniket965",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/22680912?v=4",
+        "__typename": "User"
+      },
+      "forkCount": 3399,
+      "watchers": {
+        "totalCount": 46,
+        "__typename": "UserConnection"
+      },
+      "stargazers": {
+        "totalCount": 1471,
+        "__typename": "StargazerConnection"
+      },
+      "__typename": "Repository",
+      "createdAt": 1575629212087,
+      "id": 13
+    },
+    {
+      "nameWithOwner": "lecho/hellocharts-android",
+      "name": "hellocharts-android",
+      "owner": {
+        "login": "lecho",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/545637?v=4",
+        "__typename": "User"
+      },
+      "forkCount": 1599,
+      "watchers": {
+        "totalCount": 279,
+        "__typename": "UserConnection"
+      },
+      "stargazers": {
+        "totalCount": 6801,
+        "__typename": "StargazerConnection"
+      },
+      "__typename": "Repository",
+      "createdAt": 1575629213146,
+      "id": 14
+    },
+    {
+      "nameWithOwner": "leachim6/hello-world",
+      "name": "hello-world",
+      "owner": {
+        "login": "leachim6",
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/4377?v=4",
+        "__typename": "User"
+      },
+      "forkCount": 1127,
+      "watchers": {
+        "totalCount": 110,
+        "__typename": "UserConnection"
+      },
+      "stargazers": {
+        "totalCount": 4301,
+        "__typename": "StargazerConnection"
+      },
+      "__typename": "Repository",
+      "createdAt": 1575629219859,
+      "id": 15
+    }
+  ]
+}
